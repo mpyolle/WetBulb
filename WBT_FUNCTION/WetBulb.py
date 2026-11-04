@@ -16,6 +16,8 @@
 # - Bug fix (iteration limit optimization) by Manuel Theurl (March 24, 2022)
 # - Python Vectorized Optimizations & Enhancements by Marc Pyolle (2026)
 #
+# DOI : https://doi.org/10.5281/zenodo.23957859
+#
 # METHODOLOGY:
 # Calculates Wet Bulb Temperature, Theta_wb, Theta_e, Moist Pot Temp, 
 # Lifting Cond Temp, and Equiv Temp using Davies-Jones 2008 Method.
